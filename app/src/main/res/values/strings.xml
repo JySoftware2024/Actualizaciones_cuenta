@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PI</string>
+    <string name="button1">Guardar</string>
+    <string name="button2">Cancelar</string>
+    <string name="button3">Documento</string>
+    <string name="button4">Número</string>
+    <string name="button5">Usuario</string>
+    <string name="button6">Edad</string>
+    <string name="button7">Descripción</string>
+    <string name="button8">Nombre Mascota</string>
+    <string name="button9">Raza Mascota</string>
+    <string name="button10">Nombre</string>
+    <string name="button11">Subir Archivos</string>
+    <string name="button12">Cambiar Contraseña</string>
+    <string name="Tablerofotos">string/button14</string>
+    <string name="button13">Fotos Perfil</string>
+
+</resources>
